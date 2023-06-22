@@ -33,7 +33,7 @@ void setupMenu() {
 }
 
 static void didFinishLaunching(CFNotificationCenterRef center, void *observer, CFStringRef name, const void *object, CFDictionaryRef info) {
-    NSURL* jsonURL = [NSURL URLWithString:@"https://database.cococloud-drive.com/links.json"]; // Replace <JSON_URL> with your actual JSON URL
+    NSURL* jsonURL = [NSURL URLWithString:@"https://cdn.nabzclan.com/links.json"]; // Replace <JSON_URL> with your actual JSON URL
     
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         NSData* jsonData = fetchDataFromURL(jsonURL);
