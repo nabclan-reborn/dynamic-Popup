@@ -1,0 +1,8 @@
+Package: com.nabzclan.popup
+Name: nabzclanpopup
+Author: CocoTweaks
+Description: nabzclan popup
+Depends: mobilesubstrate
+Maintainer: CocoTweaks
+Architecture: iphoneos-arm
+Version: 1.0
