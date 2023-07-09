@@ -1,12 +1,30 @@
 {
     "links": [
-      "https://nabzclan.vip/",
-      "https://twitter.com/nabzclan_reborn",
-      "https://discord.gg/yQfPTtzUPq",
-      "https://nabzclan.vip/donate/donate-to-nabzclan.1/donate",
-      "https://nabzclan.vip/forums/non-jailbroken-ipa-cheats.12/",
-      "https://apps.nabzclan.vip/"
+       
+          {
+            "name": "NabzClan - Forums",
+            "url": "https://nabzclan.vip/"
+        },
+          {
+            "name": "Follow Our Twitter",
+            "url": "https://twitter.com/nabzclan_reborn"
+        },
+          {
+            "name": "Join Our Discord",
+            "url": "https://discord.gg/yQfPTtzUPq"
+        },
+        {
+            "name": "💠 Support US 💠 (Donate)",
+            "url": "https://nabzclan.vip/donate/donate-to-nabzclan.1/donate"
+        },
+        {
+            "name": "IPA Library",
+            "url": "https://nabzclan.vip/forums/non-jailbroken-ipa-cheats.12/"
+        },
+        {
+            "name": "Find More IPAS",
+            "url": "https://apps.nabzclan.vip/"
+        }
     ],
-    "subtitle": "NabzClan \n This App was Distributed."
-  }
-  
+    "subtitle": "NabzClan \n This App was Distributed or Modded by NabzClan.vip to find More Modded non Jailbroken Ipas go to nabzclan.vip or tap one of the links below. \n Popup v1.1"
+}
